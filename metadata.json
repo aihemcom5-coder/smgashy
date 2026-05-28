@@ -1,6 +1,6 @@
 {
-  "name": "Project Dashboard",
-  "description": "A responsive dashboard layout with a navigation sidebar and active projects view.",
+  "name": "",
+  "description": "",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
